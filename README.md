@@ -19,5 +19,12 @@ This project demonstrates a basic implementation of a CRUD (Create, Read, Update
 - **MySQL** (or any other relational database)
 - **HTML/CSS** for front-end forms and tables
 
-## Project Structure
+## What I Learned
+
+- **Understanding Servlets**: Gained hands-on experience with Java Servlets, including how to handle HTTP requests and responses.
+- **Database Interaction**: Learned how to use JDBC for connecting to a database and performing CRUD operations.
+- **Web Application Structure**: Developed an understanding of the typical structure of a Java web application, including servlets, JSP, and HTML/CSS.
+- **Form Handling**: Improved skills in processing form data submitted from a web interface.
+- **Error Handling**: Implemented basic error handling and debugging techniques in a web application context.
+
 
