@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates a basic implementation of a CRUD (Create, Read, Update, Delete) application using Java Servlets and JDBC for database interactions. The application allows users to manage a list of items (e.g., users, products) through a web interface, showcasing how to handle HTTP requests and perform database operations effectively.
+This project demonstrates a basic implementation of a CRUD (Create, Read, Update, Delete) application using Java Servlets and JDBC for database interactions. Showcasing how to handle HTTP requests and perform database operations effectively.
 
 ## Features
 
