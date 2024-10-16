@@ -16,7 +16,7 @@ This project demonstrates a basic implementation of a CRUD (Create, Read, Update
 - **Java**
 - **Servlet API**
 - **JDBC**
-- **MySQL** (or any other relational database)
+- **MySQL**
 - **HTML/CSS** for front-end forms and tables
 
 ## What I Learned
